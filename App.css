@@ -1,0 +1,14 @@
+.div-style{
+    border: 1px solid red;
+    padding: 25px 15px;
+    margin: 25px 0px;
+}
+
+.input-class{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.animal-gallery{
+    padding: 15px;
+}
